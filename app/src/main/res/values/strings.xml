@@ -6,6 +6,7 @@
     <string name="action_settings">Settings</string>
     <string name="tap">Tap the image to open the camera!!</string>
     <string name="Test">data</string>
+    <string name="changes">this is a change</string>
 
 
 </resources>
